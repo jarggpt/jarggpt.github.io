@@ -2,7 +2,14 @@ body{
 }
 .header{
   background: blue;
+  padding: 10px;
+}
+.main{
+
 }
 .footer{
-  background: blue;
+}
+a{
+  text-decoration: none;
+  color: #44F;
 }
